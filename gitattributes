@@ -1,0 +1,7 @@
+# Ensure GitHub's language stats reflect the actual stack (Docker/YAML/Shell),
+# not just whatever happens to have the most bytes committed.
+docker-compose.yml linguist-language=YAML
+*.sh linguist-language=Shell
+*.md linguist-documentation
+Screenshots/* linguist-generated
+Troubleshooting/* linguist-generated
