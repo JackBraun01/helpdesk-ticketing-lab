@@ -1,0 +1,11 @@
+
+Operating System Files/
+VM Installation Folder/
+
+VM Installation Folder*/
+Operating System Files*/
+*.vdi
+*.vmdk
+*.vbox
+*.vbox-prev
+*.log
